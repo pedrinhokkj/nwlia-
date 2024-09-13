@@ -26,7 +26,7 @@ Você vai me encontrar em qualquer uma das redes sociais abaixo:
 
 <a href = "mailto:pedrinhojogadorpd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
 <a href="https://www.linkedin.com/in/pedro-alonso-269a01328/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="11-976062645" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="5511976062645" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
 <p align="center">Aplicação construída com muito ☕ por Pedro Alonso</p>
